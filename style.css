@@ -20,14 +20,14 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 3rem;
+    padding: 0rem 2rem;
     position: sticky;
     top: 0;
     border-bottom: 2px solid var(--cinza-claro);
 }
 
 .logo {
-    width: 90px;
+    width: 80px;
 }
 
 nav a {
